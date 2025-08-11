@@ -1,4 +1,5 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+my new branch
 
 # Deploy your own Candy Machine easily
 This repository is for Candy Machine V3, Account Version V2. (This is what you have when using the latest sugar version to create the candy machine)
@@ -87,3 +88,4 @@ This is not an official project by the Metaplex team. You can use that code at y
 
 # Thank you!
 Thanks to the metaplex team for creating NFTs on Solana, Candy Machine and Umi. Special Thanks to @lorisleiva for creating Umi and being so helpful. Also thanks to @tonyboylehub !
+
